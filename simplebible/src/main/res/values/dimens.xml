@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fragment_margin_hr">@dimen/big</dimen>
+    <dimen name="fragment_margin_vr">@dimen/none</dimen>
+    <dimen name="none">0dp</dimen>
+    <dimen name="small">4dp</dimen>
+    <dimen name="normal">8dp</dimen>
+    <dimen name="big">12dp</dimen>
+</resources>
